@@ -25,7 +25,7 @@
 ​
 # Codebase exploration
 ​
-- `List mnodules`: list the compilation units in the given paths (used to jump quickly between comp units).
+- `List modules`: list the compilation units in the given paths (used to jump quickly between comp units).
 - `Locate`: jump to def/decl
   *Configuration options*:
   + ML or MLI: (poorly named) whether one wants the definition or the declaration
